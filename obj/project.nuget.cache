@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "DWYoSC1dWFUItpeFwlla1yORZUEi8CVQcVcVEz2Il/KVw8LhVsz/x2aPPGYT4L58SewAAnorkpUs0cddGW+G9g==",
+  "success": true,
+  "projectFilePath": "/Users/aishaalvi/Desktop/assignment -final/Assignment/TaxiManagementTests/TaxiManagementTests.csproj",
+  "expectedPackageFiles": [
+    "/Users/aishaalvi/.nuget/packages/microsoft.codecoverage/17.5.0/microsoft.codecoverage.17.5.0.nupkg.sha512",
+    "/Users/aishaalvi/.nuget/packages/microsoft.net.test.sdk/17.5.0/microsoft.net.test.sdk.17.5.0.nupkg.sha512",
+    "/Users/aishaalvi/.nuget/packages/microsoft.testplatform.objectmodel/17.5.0/microsoft.testplatform.objectmodel.17.5.0.nupkg.sha512",
+    "/Users/aishaalvi/.nuget/packages/microsoft.testplatform.testhost/17.5.0/microsoft.testplatform.testhost.17.5.0.nupkg.sha512",
+    "/Users/aishaalvi/.nuget/packages/mstest.testadapter/3.0.2/mstest.testadapter.3.0.2.nupkg.sha512",
+    "/Users/aishaalvi/.nuget/packages/mstest.testframework/3.0.2/mstest.testframework.3.0.2.nupkg.sha512",
+    "/Users/aishaalvi/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/aishaalvi/.nuget/packages/nuget.frameworks/5.11.0/nuget.frameworks.5.11.0.nupkg.sha512",
+    "/Users/aishaalvi/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/aishaalvi/Desktop/assignment -final/Assignment/TaxiManagementTests/TaxiManagementTests.csproj": {}
+  },
+  "projects": {
+    "/Users/aishaalvi/Desktop/assignment -final/Assignment/TaxiManagement/TaxiManagement.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aishaalvi/Desktop/assignment -final/Assignment/TaxiManagement/TaxiManagement.csproj",
+        "projectName": "TaxiManagement",
+        "projectPath": "/Users/aishaalvi/Desktop/assignment -final/Assignment/TaxiManagement/TaxiManagement.csproj",
+        "packagesPath": "/Users/aishaalvi/.nuget/packages/",
+        "outputPath": "/Users/aishaalvi/Desktop/assignment -final/Assignment/TaxiManagement/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/aishaalvi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.315/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/aishaalvi/Desktop/assignment -final/Assignment/TaxiManagementTests/TaxiManagementTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aishaalvi/Desktop/assignment -final/Assignment/TaxiManagementTests/TaxiManagementTests.csproj",
+        "projectName": "TaxiManagementTests",
+        "projectPath": "/Users/aishaalvi/Desktop/assignment -final/Assignment/TaxiManagementTests/TaxiManagementTests.csproj",
+        "packagesPath": "/Users/aishaalvi/.nuget/packages/",
+        "outputPath": "/Users/aishaalvi/Desktop/assignment -final/Assignment/TaxiManagementTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/aishaalvi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/aishaalvi/Desktop/assignment -final/Assignment/TaxiManagement/TaxiManagement.csproj": {
+                "projectPath": "/Users/aishaalvi/Desktop/assignment -final/Assignment/TaxiManagement/TaxiManagement.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.315/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
